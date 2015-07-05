@@ -1,0 +1,10 @@
+NEMESIS: an EVE Online Waitlist Management Tool
+
+Backend & Frontend:
+ Thomion
+
+CSS Design:
+ Titus Tallang
+
+Beta-Testers:
+ E-Uni Incursionistas

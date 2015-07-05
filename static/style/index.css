@@ -1,0 +1,46 @@
+body {
+	margin: 20px;
+}
+
+div.h3 {
+	margin-top: 15px;
+	font-weight: bold;
+	font-size: 160%;
+	text-decoration: underline;
+}
+
+div.h4 {
+	margin-top: 10px;
+	font-weight: bold;
+	font-size: 130%;
+}
+
+#wrapper {
+	width: 600px;
+	border: 1px solid black;
+	background-color: rgba(0, 0, 0, 0.18);
+	overflow: hidden;  /* add this to contain floated children */
+}
+
+div.float-container > div {
+	float: left; /* add this */
+	margin: 0;
+	padding: 0;
+}
+
+img{display:block;}
+
+.hidden {
+	visibility: hidden;
+}
+
+.remove {
+	display: none;
+}
+
+#footer {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 0.7em;
+	font-style: italic;
+	padding: 1em;
+}
